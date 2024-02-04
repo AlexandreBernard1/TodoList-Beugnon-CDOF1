@@ -46,11 +46,9 @@ Click on the "Fork" button at the top right of the repository page to create a p
 
 Clone your forked repository to your local machine using the following command:
 
-    ```bash
    git clone https://github.com/your-username/your-repository.git
 
 ## 3. Create a New Branch
-    ```bash
    cd your-repository
    git checkout -b your-feature-branch
 
@@ -58,12 +56,10 @@ Clone your forked repository to your local machine using the following command:
 Make your changes to the code or documentation in your branch.
 
 ## 5. Commit Changes
-    ```bash
    git add .
    git commit -m "Description of your changes"
 
 ## 6. Push Changes
-    ```bash
    git push origin your-feature-branch
 
 ## 7 Create a Pull Request
